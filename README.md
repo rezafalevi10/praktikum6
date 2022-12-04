@@ -1,6 +1,6 @@
 # praktikum6
 
-adam-webdev
+reza_falevi
 /
 11-fungsi-lambda
 Publik
